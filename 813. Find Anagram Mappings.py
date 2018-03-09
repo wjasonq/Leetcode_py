@@ -1,3 +1,4 @@
+# copyright https://github.com/kamyu104/LeetCode/blob/master/Python/find-anagram-mappings.py
 class Solution:
     """
     @param A: lists A
