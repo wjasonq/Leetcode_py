@@ -12,4 +12,3 @@ class Solution:
         for n in A:
             result.append(lookup[n].popleft())
         return result
-fadfaf
